@@ -42,4 +42,4 @@ python ./main.py --dataset {DATASET}
 
 
 
-<span style="color: gray; font-size: small;">@QCC 更新于 2025-3-14</span>
+<small>@QCC 更新于 2025-3-14</small>
