@@ -3,7 +3,7 @@
 
 <h2>模型结构示意图 </h2>
 <p align="center">
-<img src="[./MMSSL.png](https://github.com/user-attachments/assets/f942dc29-482d-49ce-a137-e69e103bafa3)" alt="MMSSL" />
+<img src="./MASSR.png" alt="MASSR" />
 </p>
 
 <h2>数据集参考 </h2>
