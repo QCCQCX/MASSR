@@ -17,9 +17,9 @@
 
 <h2>数据集参考</h2>
 
-分别来自于“Amazon”、“Tiktok”、“Allrecipes”平台的公开历史数据集<br>
-经预处理后的部分数据可参考 MASSR-data：<br>
-https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg<br>
+分别来自于 “Amazon”、“Tiktok”、“Allrecipes” 平台的公开历史数据集<br>
+此处提供经预处理后的部分多模态数据 ：<br>
+[MASSR-data](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
 提取码: 6666
 
 
