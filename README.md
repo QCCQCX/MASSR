@@ -21,7 +21,7 @@
 此处提供经预处理后的部分多模态数据 ：<br>
 [MASSR-data（提取码: 6666）](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
 数据格式兼容其他对比模型，如下图：<br>
-<p align="center">
+<p>
   <img src="./data.png" alt="data" width="50%" />
 </p>
 
@@ -45,6 +45,4 @@ python ./main.py --dataset {DATASET}
 
 
 
-<p align="center">
-  <sub>@QCC 更新于 2025-3-14</sub>
-</p>
+<sub>@QCC 更新于 2025-3-14</sub>
