@@ -5,11 +5,13 @@
 后者利用三元组损失函数来训练跨模态改进的孪生网络，以捕捉不同用户对模态信息的特定偏好，最大化同一用户嵌入的相似关系。<br>
 
 
-<h2>Multi-modal Adversarial and Siamese Self-augentation Recommended method</h2>
-模型结构示意图：<br>
+
+<h2>Multi-modal Adversarial and Siamese Self-augentation Recommended method (MASSR)</h2>
+总体架构图：<br>
 <p align="center">
 <img src="./MASSR.png" alt="MASSR" />
 </p>
+
 
 
 <h2>数据集参考</h2>
@@ -20,11 +22,13 @@ https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg<br>
 提取码: 6666
 
 
+
 <h2>环境参考</h2>
 
 * Python：3.9.13
 * Pytorch：1.13.0+cu116
 * dgl-cuda11.6：0.9.1post1
+
 
 
 <h2>运行参考</h2>
@@ -34,3 +38,7 @@ https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg<br>
 cd MASSR
 python ./main.py --dataset {DATASET}
 ```
+可选择的数据集包括：{Amazon, Tiktok, Allrecipes}<br>
+
+
+> **Note:** @QCC 更新于 2025-3-14
