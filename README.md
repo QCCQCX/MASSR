@@ -19,9 +19,9 @@
 
 分别来自于 “Amazon”、“Tiktok”、“Allrecipes” 平台的公开历史数据集<br>
 此处提供经预处理后的部分多模态数据 ：<br>
-[MASSR-data](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
-提取码: 6666
-
+[MASSR-data（提取码: 6666）](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
+数据格式兼容其他对比模型，如下图：<br>
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/d4f71dfe-3129-47d9-a687-fbf55f4ed244" />
 
 
 <h2>环境参考</h2>
