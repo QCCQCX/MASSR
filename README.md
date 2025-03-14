@@ -18,8 +18,7 @@
 <h2>数据集参考</h2>
 
 分别来自于 “Amazon”、“Tiktok”、“Allrecipes” 平台的公开历史数据集<br>
-此处提供经预处理后的部分多模态数据 ：<br>
-[MASSR-data（提取码: 6666）](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
+此处提供经预处理后的部分多模态数据 ：[MASSR-data（提取码: 6666）](https://pan.baidu.com/s/1AMHbYyvh4IlHnCKHir6vBg)<br>
 数据格式兼容其他对比模型，如下图：<br>
 <p>
   <img src="./data.png" alt="data" width="50%" />
